@@ -3,7 +3,7 @@ Para ter acesso aos códigos primeiro tenha o python instalado na máquina.<br>
 Após abrir seu editor : 'pip install django'<br>
 Para rodar o sistema de forma local: 'python manage.py runserver'<br>
 #### IMPORTANTE SOBRE URL : SE FOR PASSADA SOMENTE O SERVIDOR LOCAL SEM OS PARAMETROS SERÁ RETORNADO ERRO
-SEU SITE COMECA EM :http://127.0.0.1:8000/auth/cadastro/
+SEU SITE COMECA EM :http://127.0.0.1:8000/auth/cadastro/(SOMENTE APÓS RODAR O SERVIDOR LOCAL)
 # Algumas telas do projeto
 ### Tela de Cadastro
 ![tela-login](https://user-images.githubusercontent.com/74375534/162582356-dab97b86-4051-4d05-99d2-636f6a37a4c1.png)<br><br>
